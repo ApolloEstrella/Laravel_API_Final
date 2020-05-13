@@ -2,3 +2,4 @@ DROP TABLE users;
 DROP TABLE migrations;
 
 php artisan config:cache // edit config/database.php in 'mysql' section
+https://www.twilio.com/blog/building-and-consuming-a-restful-api-in-laravel-php
