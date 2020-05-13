@@ -1,0 +1,4 @@
+DROP TABLE users;
+DROP TABLE migrations;
+
+php artisan config:cache // edit config/database.php in 'mysql' section
